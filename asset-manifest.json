@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/StudentsEduTracker-Using-React.git/static/css/main.3a61d8d1.css",
+    "main.js": "/StudentsEduTracker-Using-React.git/static/js/main.32849b37.js",
+    "static/media/logo.png": "/StudentsEduTracker-Using-React.git/static/media/logo.3b6a4c35fe8abd4e3980.png",
+    "index.html": "/StudentsEduTracker-Using-React.git/index.html",
+    "main.3a61d8d1.css.map": "/StudentsEduTracker-Using-React.git/static/css/main.3a61d8d1.css.map",
+    "main.32849b37.js.map": "/StudentsEduTracker-Using-React.git/static/js/main.32849b37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a61d8d1.css",
+    "static/js/main.32849b37.js"
+  ]
+}
